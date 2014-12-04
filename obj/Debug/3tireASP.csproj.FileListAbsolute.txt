@@ -1,0 +1,5 @@
+c:\users\compaq\documents\visual studio 2010\Projects\3tireASP\3tireASP\bin\3tireASP.dll
+c:\users\compaq\documents\visual studio 2010\Projects\3tireASP\3tireASP\bin\3tireASP.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\3tireASP\3tireASP\obj\Debug\ResolveAssemblyReference.cache
+c:\users\compaq\documents\visual studio 2010\Projects\3tireASP\3tireASP\obj\Debug\3tireASP.dll
+c:\users\compaq\documents\visual studio 2010\Projects\3tireASP\3tireASP\obj\Debug\3tireASP.pdb
